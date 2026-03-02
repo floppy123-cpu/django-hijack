@@ -16,7 +16,7 @@
     "plugins": [
       "prettier-plugin-jsdoc"
     ],
-    "semi": false
+    "semi": true
   },
   "repository": {
     "type": "git",
